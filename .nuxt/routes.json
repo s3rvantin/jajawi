@@ -1,0 +1,14 @@
+[
+  {
+    "name": "landing",
+    "path": "/landing",
+    "component": "/home/s3rvantin/bucin/pages/landing.vue",
+    "chunkName": "pages/landing"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/s3rvantin/bucin/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
